@@ -1,2 +1,2 @@
 # login_template
-just a login template.
+just a login page template.
